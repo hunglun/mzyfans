@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.portfolio-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.portfolio-item {
+  margin-bottom: 20px;
+}
