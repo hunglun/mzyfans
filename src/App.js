@@ -7,7 +7,6 @@ import TimelineComponent from './components/TimelineComponent';
 function App() {
   return (
     <div className="App">
-      <TimelineComponent />
       <SingaporeLocationTimeline />
       <div style={{ display: 'none' }}>
         <Profile />
